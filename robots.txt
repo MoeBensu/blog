@@ -1,1 +1,1 @@
-Sitemap: https://moeneuron.github.io/whiterabbitpress/sitemap.xml
+Sitemap: https://moeneuron.github.io/blog/sitemap.xml
